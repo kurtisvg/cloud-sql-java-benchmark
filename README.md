@@ -1,3 +1,3 @@
 # cloud-sql-java-benchmark
 
-_Not an official Google product._
+_Warning: the projects in the repo are experimental, and are not an officially supported Google products._

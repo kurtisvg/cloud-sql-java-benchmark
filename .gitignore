@@ -1,6 +1,7 @@
 # Java stuff
-target
+target/
 
-# Jetbrains IDEs
-.idea
+# IDEs
+.idea/
 *.iml
+.vscode/
